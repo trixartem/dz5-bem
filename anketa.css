@@ -1,0 +1,18 @@
+@import "blocks/b-anketa/b-anketa.css";
+@import 'blocks/b-head/b-head.css';
+@import 'blocks/b-table/b-table.css';
+@import 'blocks/b-table/__answers/b-table__answers.css';
+@import 'blocks/b-table/__issues/b-table__issues.css';
+@import 'blocks/b-table/__item/b-table__item.css';
+@import 'blocks/b-table/__item/_mod_even/b-table__item_mod_even.css';
+@import 'blocks/b-table/__item/_mod_head/b-table__item_mod_head.css';
+@import 'blocks/b-table/__item/_mod_uneven/b-table__item_mod_uneven.css';
+
+  a {
+	  color:#CC6633;
+	  text-decoration:none;	  
+  }
+  a:hover {
+	  color:#FF6600;
+	  text-decoration:underline;
+	}
